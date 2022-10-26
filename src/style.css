@@ -48,3 +48,10 @@ ul {
 .list-skills{
     list-style: tibetan outside none;
 }
+
+.skill{
+    padding: 5px 15px;
+    background-color: gray;
+    color: beige;
+    border-radius: 10px;
+}
